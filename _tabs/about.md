@@ -7,4 +7,4 @@ My name is **Gustavo Bonito** (alias **b0n1t0**), I'm from Portugal and I'm full
 
 The main goal with this blog is to share my researches, bug bounty reports, CTF solutions and anything else related with the Infosec field.
 
-For direct messaging you contact me via [Twitter](https://twitter.com/_b0n1t0) or [LinkedIn](https://www.linkedin.com/in/b0n1t0).
+For direct messaging you can contact me via [Twitter](https://twitter.com/_b0n1t0) or [LinkedIn](https://www.linkedin.com/in/b0n1t0).
